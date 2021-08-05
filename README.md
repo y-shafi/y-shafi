@@ -13,5 +13,5 @@ I'm Yas, or Shafi, I'm a Junior Developer currently studying at Code nation.
 - 💬How to reach me: (yshafi22@gmail.com)
 - ⚡ Fun fact: I'm a part time football coach
 
-Inline-style: 
+ 
 ![alt text](https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif?mtime=20200914144127&focal=none "Logo Title Text 1")
